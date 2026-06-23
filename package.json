@@ -1,0 +1,34 @@
+{
+  "name": "ecommerce-route-react",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Professional React e-commerce app inspired by Route Academy demo using Route E-commerce API.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint-plugin-react-hooks": "latest"
+  },
+  "keywords": [
+    "react",
+    "ecommerce",
+    "frontend",
+    "route-api",
+    "portfolio"
+  ],
+  "license": "MIT"
+}
